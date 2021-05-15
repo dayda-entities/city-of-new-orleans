@@ -10,8 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: >-
-  https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/1/2c/12c4eef3-0165-531e-9f54-3a5b533026b5/5dd72a703e92c.image.jpg?resize=1024%2C1026
+profile_pic: 'https://directory.dayda.org/assets/img/entities/city-of-new-orleans.png'
 favicon: /assets/img/favicon.png
 url: 'http://city-of-new-orleans.dayda.org'
 encoding: utf-8
