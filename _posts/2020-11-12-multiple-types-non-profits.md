@@ -1,17 +1,19 @@
 ---
 title: Multiple Types Non-profits
-created: '2020-11-12T13:57:00.945565'
-modified: '2020-12-04T18:36:11.867428'
+created: '2020-11-12T13:57:00.134238'
+modified: '2020-12-04T18:36:09.213015'
 state: active
 type: dataset
 tags:
-  - Arts
-  - Culture
+  - Art
+  - Center
+  - Cultural
   - Foundation
+  - Music
 groups: []
-csv_url: 'https://data.nola.gov/api/views/rz5p-cftc/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.nola.gov/api/views/rz5p-cftc/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.nola.gov/api/views/bybt-2qqp/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.nola.gov/api/views/bybt-2qqp/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Non-profits across New Orleans that span different sectors- some have a concentration in the arts, cultural education, or culinary education.
+Multiple, Types, Art, Foundation, Center, Cultural, Music
